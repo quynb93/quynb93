@@ -36,10 +36,6 @@ I am a passionate and experienced Web Developer with over 7 years of hands-on ex
     <img src="https://img.shields.io/badge/PostgreSQL-%233b6d98?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
 </div>
 
-### 🔭 I’m working on
-
-- Projects for freelance clients.
-
 ### 📫 How to reach me
 
 Feel free to reach out to me via
