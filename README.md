@@ -41,13 +41,13 @@ I am a passionate and experienced Web Developer with over 7 years of hands-on ex
 Feel free to reach out to me via
 
 <div display="flex">
-    <a href="mailto:quy.nguyenba58@gmail.com">
+    <a href="mailto:quy.nguyenba58@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-%23eb483c.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://join.skype.com/invite/esumHFCLf5WS">
+    <a href="https://join.skype.com/invite/esumHFCLf5WS" target="_blank">
         <img src="https://img.shields.io/badge/Skype-%230077B5.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"/>
     </a>
-    <a href="https://www.linkedin.com/in/quy-nguyen-ba-53a9a383">
+    <a href="https://www.linkedin.com/in/nguyen-ba-quy/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
